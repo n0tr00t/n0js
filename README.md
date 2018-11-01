@@ -104,4 +104,4 @@
 	#### @Nearg1e [yourneargo@gmail.com]
 	- case6.php?x=*/1%3C/script%3E%3Cscript%3E/*prompt(1);function%20lt(){};//
 
-[http://server.n0tr00t.com/n0js/case7.php](http://server.n0tr00t.com/n0js/case7.php)
+[http://server.n0tr00t.com/n0js/case7.html](http://server.n0tr00t.com/n0js/case7.html)
